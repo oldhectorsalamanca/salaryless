@@ -33,9 +33,6 @@ pip install -r requirements.txt
 **Remember**, this should be the path to your Firefox profile in which you are already logged in. Wappalyzer only provides version information when you’re logged in.
 firefox_profile_path= #TO COMPLETE
 
-Example on Linux:
-firefox_profile_path=/home/user/.mozilla/firefox/abcd1234.default-release
-
 ## Usage
 Run the main script:
 python salaryless.py
