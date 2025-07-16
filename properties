@@ -1,4 +1,3 @@
-# Escriba aqui la ruta parcial al perfil de Firefox que mantiene la sesión
-# Suele ser algo similar a:
-# firefox_profile_path=~/.mozilla/firefox/ejemplo123.default
-firefox_profile_path=~/.mozilla/firefox/qa13b2bp.default-esr
+# Firefox profile should look like the following:
+# ~/.mozilla/firefox/random123.default
+firefox_profile_path=~/.mozilla/firefox/ixh6izlq.default-esr
