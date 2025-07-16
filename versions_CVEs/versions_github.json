@@ -1,0 +1,132 @@
+{
+  "Miscellaneous": [
+    {
+      "name": "Contentful",
+      "version": null
+    },
+    {
+      "name": "styled-components",
+      "version": "5.3.11"
+    },
+    {
+      "name": "Zendesk",
+      "version": null
+    },
+    {
+      "name": "Zendesk",
+      "version": null
+    },
+    {
+      "name": "Apple iCloud Mail",
+      "version": null
+    },
+    {
+      "name": "Google Workspace",
+      "version": null
+    },
+    {
+      "name": "Salesforce",
+      "version": null
+    },
+    {
+      "name": "PHP",
+      "version": null
+    },
+    {
+      "name": "Three.js",
+      "version": "148"
+    },
+    {
+      "name": "Symfony",
+      "version": null
+    },
+    {
+      "name": "React Router",
+      "version": "7.6.1"
+    },
+    {
+      "name": "styled-components",
+      "version": "5.3.11"
+    },
+    {
+      "name": "React",
+      "version": null
+    },
+    {
+      "name": "GSAP",
+      "version": null
+    },
+    {
+      "name": "GitHub Pages",
+      "version": null
+    },
+    {
+      "name": "Amazon Web Services",
+      "version": null
+    },
+    {
+      "name": "Stripe",
+      "version": null
+    },
+    {
+      "name": "FullStory",
+      "version": null
+    },
+    {
+      "name": "Amazon S3",
+      "version": null
+    },
+    {
+      "name": "Google Workspace",
+      "version": null
+    },
+    {
+      "name": "Donorbox",
+      "version": null
+    },
+    {
+      "name": "lit-html",
+      "version": "1.1.2"
+    },
+    {
+      "name": "Lodash",
+      "version": null
+    },
+    {
+      "name": "Zendesk",
+      "version": null
+    },
+    {
+      "name": "Turbo",
+      "version": null
+    },
+    {
+      "name": "Workable",
+      "version": null
+    },
+    {
+      "name": "Sectigo",
+      "version": null
+    },
+    {
+      "name": "HSTS",
+      "version": null
+    },
+    {
+      "name": "DocuSign",
+      "version": null
+    },
+    {
+      "name": "PWA",
+      "version": null
+    },
+    {
+      "name": "Open Graph",
+      "version": null
+    },
+    {
+      "name": "Webpack",
+      "version": null
+    }
+  ]
+}
