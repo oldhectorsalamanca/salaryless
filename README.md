@@ -1,4 +1,4 @@
-# Technology Detection and CVE Search Tool
+# Salaryless, Technology Detection and CVE Search Tool
 
 ## Description
 
