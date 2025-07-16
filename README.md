@@ -11,9 +11,8 @@ then searches for **CVE vulnerabilities** related to the detected versions using
 
 - Python 3.8 or higher  
 - Firefox installed  
-- GeckoDriver installed and added to `PATH`  
-  [GeckoDriver Releases](https://github.com/mozilla/geckodriver/releases)  
-- A configured Firefox profile to maintain session (optional but recommended)  
+- GeckoDriver installed: [GeckoDriver Releases](https://github.com/mozilla/geckodriver/releases)  
+- A configured Firefox profile to maintain session in wappalizer  
 - A `properties` file with the path to the Firefox profile where Wappalyzer is logged in
 
 ---
@@ -30,8 +29,8 @@ venv\Scripts\activate     # Windows
 # Install the dependencies:
 pip install -r requirements.txt
 
-Add the following line to the properties file in the project directory:
-firefox_profile_path=/partial/path/to/firefox/profile
+# /!\ Important: Complete the following line in the properties file of the project directory
+firefox_profile_path= #TO COMPLETE
 
 Example on Linux:
 firefox_profile_path=/home/user/.mozilla/firefox/abcd1234.default-release
@@ -50,4 +49,4 @@ If you get errors related to disk space or /tmp being full, free up space with:
 sudo rm -rf /tmp/*
 
 ## Contact
-For questions or issues, dont contact me!
+For questions or issues, feel free to contact dcentgame50@gmail.com!
