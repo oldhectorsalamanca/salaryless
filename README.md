@@ -21,15 +21,16 @@ then searches for **CVE vulnerabilities** related to the detected versions using
 
 1. Clone or download this repository.
 
-2. (Optional but recommended) Create a virtual environment:
+2. Create a virtual environment (if needed):
 python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
    
-# Install the dependencies:
+3. Install the dependencies:
 pip install -r requirements.txt
 
-# /!\ Important: Complete the following line in the properties file of the project directory
+4. Complete the following line in the properties file of the project directory.
+**Remember**, this should be the path to your Firefox profile in which you are already logged in. Wappalyzer only provides version information when you’re logged in.
 firefox_profile_path= #TO COMPLETE
 
 Example on Linux:
