@@ -188,10 +188,11 @@ def main():
         print("No versions found. Skipping CVE search.")
         return
 
-    answer = input("Do you want to search for CVEs for these versions? (y/n): ").strip().lower()
+    # Remove comment to make CVEs scan optional
+    """answer = input("Do you want to search for CVEs for these versions? (y/n): ").strip().lower()
     if answer != "y":
         print("CVE search skipped.")
-        return
+        return"""
 
     print("Searching for CVEs...")
     cves = search_cves(services)
