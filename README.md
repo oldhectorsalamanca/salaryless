@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 ## Usage
 Run the main script:
-python salaryless.py
-The program will ask for a URL, detect the technologies used on that website, and search for known CVEs associated with the versions found.
+python salaryless.py <domain.com>
+The program will ask if you want to manually input technologies and versions. If you dont, it will use Wappalyzer, detect the technologies used on that website, and search for known CVEs associated with the versions found.
 
 ## Notes
 Make sure Firefox and GeckoDriver are correctly installed and compatible.
